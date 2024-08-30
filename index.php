@@ -75,7 +75,7 @@ include "inc/header.php";
                   <div class="card-body">
                     <h4 class="card-title">Philodendron Green</h4>
                     <p class="card-text">Price: ₹700</p>
-                    <input type="submit" class="btn btn-secondary px-3 text-white" name="pp" value="See Product >">
+                    <input type="submit" class="btn btn-secoaaaaassssdddaaasdndary px-3 text-white" name="pp" value="See Product >">
                     <input type="hidden" name="product" value="Philodendron Green">
                   </div>
               </form>
